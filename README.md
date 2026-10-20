@@ -26,6 +26,9 @@ python scanner.py
 ## Test
 make test
 
+This is a Python project, so `npm test` is not applicable; use the repository
+test command above.
+
 ## Docker
 docker build -t keyguardian-swarm .
 docker run keyguardian-swarm
